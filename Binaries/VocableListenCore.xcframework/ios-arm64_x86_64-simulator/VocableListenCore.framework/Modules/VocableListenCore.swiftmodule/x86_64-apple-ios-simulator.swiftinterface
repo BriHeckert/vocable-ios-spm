@@ -1,0 +1,39 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)
+// swift-module-flags: -target x86_64-apple-ios14.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name VocableListenCore
+import Combine
+import CoreML
+import Foundation
+import Swift
+@_exported import VocableListenCore
+public enum VLClassification : Swift.Int, Swift.CaseIterable {
+  case freeResponse
+  case yesOrNo
+  case numerical
+  case interval
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+  public typealias AllCases = [VocableListenCore.VLClassification]
+  public static var allCases: [VocableListenCore.VLClassification] {
+    get
+  }
+}
+public struct VLClassificationResult : Swift.Equatable {
+  public static func == (a: VocableListenCore.VLClassificationResult, b: VocableListenCore.VLClassificationResult) -> Swift.Bool
+}
+@_hasMissingDesignatedInitializers public class VLClassifier {
+  @Foundation.Published @_projectedValueProperty($classification) public var classification: VocableListenCore.VLClassificationResult? {
+    get
+  }
+  public var $classification: Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher {
+    get
+  }
+  public func classify(_ input: Swift.String)
+  @objc deinit
+}
+extension VocableListenCore.VLClassification : Swift.Equatable {}
+extension VocableListenCore.VLClassification : Swift.Hashable {}
+extension VocableListenCore.VLClassification : Swift.RawRepresentable {}

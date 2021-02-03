@@ -1,0 +1,11 @@
+framework module VocableListenCore {
+  umbrella header "VocableListenCore.h"
+
+  export *
+  module * { export * }
+}
+
+module VocableListenCore.Swift {
+    header "VocableListenCore-Swift.h"
+    requires objc
+}

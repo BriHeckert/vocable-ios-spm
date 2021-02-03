@@ -8,13 +8,13 @@ let package = Package(
     products: [
         .library(
             name: "VocableCore",
-            targets: ["VocableVoiceCore"]),
+            targets: ["VocableListenCore"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
-            name: "VocableVoiceCore",
-            path: "Binaries/VocableVoiceCore.xcframework"
+            name: "VocableListenCore",
+            path: "Binaries/VocableListenCore.xcframework"
         )
     ]
 )
