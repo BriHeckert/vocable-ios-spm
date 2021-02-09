@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0ziz3/ErBdfWW6ZAnMGSt30RQWY=
+		4K7yzMyEHmvWztESOxKVpQf3xVM=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Q/SYf8eOlVpNg10YTQ5TiKOje4w=
+		fcJiV1zkm2W+wFq1RcQ6HntwUys=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		sOnsgbjDZNqzVsIaG20WkflcpEk=
+		zUBd2xQc6i0Ey9Y7yevlwuqBPDE=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vw2XlMPQ+W9cpRPBW08OCVV6fgc=
+		vwdV95M8jWqOEcWBGseQeywd7qk=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Q/SYf8eOlVpNg10YTQ5TiKOje4w=
+		fcJiV1zkm2W+wFq1RcQ6HntwUys=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		sOnsgbjDZNqzVsIaG20WkflcpEk=
+		zUBd2xQc6i0Ey9Y7yevlwuqBPDE=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vw2XlMPQ+W9cpRPBW08OCVV6fgc=
+		vwdV95M8jWqOEcWBGseQeywd7qk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>root_classifier.mlmodelc/coremldata.bin</key>
 		<data>
-		sdwS0JDEj6KZnB7xwRlqh7/j260=
+		RTXsVrL8uatbPjV4EqksYFja87M=
 		</data>
 		<key>root_classifier.mlmodelc/metadata.json</key>
 		<data>
-		inMSdSJwLatgO76hcs0PvWuhyDE=
+		KF2Xm/MvgSsxe0bM8rYm1Hrth1E=
 		</data>
 		<key>root_classifier.mlmodelc/model.espresso.net</key>
 		<data>
@@ -101,42 +101,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PXLEo8YACxHCuU4tnRhLpQr0fUfYKv7lurnmQmq2z7I=
+			CBN6IJTPvO+JHFHbi8M91zv0oanMkn6bbmQdtNfFmiE=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDq5DD3CN8b9Sp/ZNCp9U+BJtqz9m9/mgsGNCwnJH8c=
+			7M7PEAo6eQ14gaeXH0akBEdHW/0ivcrjwGqEg8exBUw=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ySVHR5++AZyXCE5xXEPWTWVEnkSZQThL7OMdWcvp6f8=
+			CxWJzmGHabf6xf0qr8FCAx/4RmBEp68m4juUtwZp07Y=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PXLEo8YACxHCuU4tnRhLpQr0fUfYKv7lurnmQmq2z7I=
+			CBN6IJTPvO+JHFHbi8M91zv0oanMkn6bbmQdtNfFmiE=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDq5DD3CN8b9Sp/ZNCp9U+BJtqz9m9/mgsGNCwnJH8c=
+			7M7PEAo6eQ14gaeXH0akBEdHW/0ivcrjwGqEg8exBUw=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ySVHR5++AZyXCE5xXEPWTWVEnkSZQThL7OMdWcvp6f8=
+			CxWJzmGHabf6xf0qr8FCAx/4RmBEp68m4juUtwZp07Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -157,14 +157,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7kDmmGLqLbfPpVHY4QhOoaFGHFHnSbQfFr3xlkYR5C8=
+			UsCk+CoUk09U3U4eHDAnpScCRQmn2MunksjAeLznlKA=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CjGb/FmDoTls2h2fQSSOZ63LNWaLiZiOQ9w4xmgDr1s=
+			LAStMuCclo2qHRyOmzKYzuVU1XqpfN5qJczD5iNE0AM=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/model.espresso.net</key>
