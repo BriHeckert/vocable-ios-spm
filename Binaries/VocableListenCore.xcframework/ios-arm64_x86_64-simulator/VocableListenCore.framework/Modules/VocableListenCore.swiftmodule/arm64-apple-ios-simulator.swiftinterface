@@ -22,15 +22,18 @@ public enum VLClassification : Swift.Int, Swift.CaseIterable {
   }
 }
 public struct VLClassificationResult : Swift.Equatable {
+  public let text: Swift.String
+  public let result: VocableListenCore.VLClassification
   public static func == (a: VocableListenCore.VLClassificationResult, b: VocableListenCore.VLClassificationResult) -> Swift.Bool
 }
-@_hasMissingDesignatedInitializers public class VLClassifier {
+public class VLClassifier {
   @Foundation.Published @_projectedValueProperty($classification) public var classification: VocableListenCore.VLClassificationResult? {
     get
   }
   public var $classification: Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher {
     get
   }
+  public init()
   public func classify(_ input: Swift.String)
   @objc deinit
 }

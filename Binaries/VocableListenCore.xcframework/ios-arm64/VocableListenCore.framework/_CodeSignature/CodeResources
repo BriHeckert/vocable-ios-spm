@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zUBd2xQc6i0Ey9Y7yevlwuqBPDE=
+		ov8znBlwfK16qg5uuNVqrxyEh6c=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		vwdV95M8jWqOEcWBGseQeywd7qk=
+		eqvuaq10fb2NxvLXwhr2Ksx+tnE=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		zUBd2xQc6i0Ey9Y7yevlwuqBPDE=
+		ov8znBlwfK16qg5uuNVqrxyEh6c=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vwdV95M8jWqOEcWBGseQeywd7qk=
+		eqvuaq10fb2NxvLXwhr2Ksx+tnE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>root_classifier.mlmodelc/coremldata.bin</key>
 		<data>
-		RTXsVrL8uatbPjV4EqksYFja87M=
+		sdwS0JDEj6KZnB7xwRlqh7/j260=
 		</data>
 		<key>root_classifier.mlmodelc/metadata.json</key>
 		<data>
@@ -108,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7M7PEAo6eQ14gaeXH0akBEdHW/0ivcrjwGqEg8exBUw=
+			KjT1ngtYjqLREabAew9yd2HN2WPDomM+8VYOQG7bwNY=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CxWJzmGHabf6xf0qr8FCAx/4RmBEp68m4juUtwZp07Y=
+			leQxefzJBKKpi9EEUH5tjAIKIZ1W4NeB+QWAyjh+MJU=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
@@ -129,14 +129,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7M7PEAo6eQ14gaeXH0akBEdHW/0ivcrjwGqEg8exBUw=
+			KjT1ngtYjqLREabAew9yd2HN2WPDomM+8VYOQG7bwNY=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CxWJzmGHabf6xf0qr8FCAx/4RmBEp68m4juUtwZp07Y=
+			leQxefzJBKKpi9EEUH5tjAIKIZ1W4NeB+QWAyjh+MJU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -157,7 +157,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UsCk+CoUk09U3U4eHDAnpScCRQmn2MunksjAeLznlKA=
+			7kDmmGLqLbfPpVHY4QhOoaFGHFHnSbQfFr3xlkYR5C8=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/metadata.json</key>
