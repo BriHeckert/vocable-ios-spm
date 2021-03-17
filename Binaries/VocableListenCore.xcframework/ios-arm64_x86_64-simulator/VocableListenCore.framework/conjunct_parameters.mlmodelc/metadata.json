@@ -1,0 +1,99 @@
+[
+  {
+    "shortDescription" : "",
+    "metadataOutputVersion" : "3.0",
+    "outputSchema" : [
+      {
+        "hasShapeFlexibility" : "0",
+        "isOptional" : "0",
+        "dataType" : "Float32",
+        "formattedType" : "MultiArray (Float32)",
+        "shortDescription" : "",
+        "shape" : "[]",
+        "name" : "Identity",
+        "type" : "MultiArray"
+      }
+    ],
+    "version" : "",
+    "modelParameters" : [
+
+    ],
+    "author" : "WillowTree",
+    "specificationVersion" : 5,
+    "license" : "",
+    "isUpdatable" : "0",
+    "availability" : {
+      "macOS" : "11.0",
+      "tvOS" : "14.0",
+      "watchOS" : "7.0",
+      "iOS" : "14.0",
+      "macCatalyst" : "14.0"
+    },
+    "modelType" : {
+      "name" : "MLModelType_neuralNetwork"
+    },
+    "inputSchema" : [
+      {
+        "dataType" : "Float32",
+        "hasShapeFlexibility" : "1",
+        "isOptional" : "0",
+        "shapeFlexibility" : "1... × 82",
+        "shapeRange" : "[[1, -1], [82, 82]]",
+        "formattedType" : "MultiArray (Float32 1 × 82)",
+        "type" : "MultiArray",
+        "shape" : "[1, 82]",
+        "name" : "input_1",
+        "shortDescription" : ""
+      }
+    ],
+    "userDefinedMetadata" : {
+      "com.github.apple.coremltools.version" : "4.1",
+      "input_map" : "{\"ENDPAD\": 0, \"Adjective\": 1, \"Adverb\": 2, \"Conjunction\": 3, \"Determiner\": 4, \"Interjection\": 5, \"Noun\": 6, \"Number\": 7, \"Or\": 8, \"OtherWord\": 9, \"Particle\": 10, \"Preposition\": 11, \"Pronoun\": 12, \"Verb\": 13}",
+      "end_pad" : "True",
+      "com.github.apple.coremltools.source" : "tensorflow==2.3.1",
+      "output_map" : "{\"0\": 0, \"1\": 1}",
+      "version" : "v1"
+    },
+    "generatedClassName" : "conjunct_parameters",
+    "neuralNetworkLayerTypeHistogram" : {
+      "BatchedMatmul" : 16,
+      "SoftmaxND" : 1,
+      "LessThan" : 4,
+      "Loop" : 4,
+      "LoadConstantND" : 42,
+      "FillDynamic" : 42,
+      "Multiply" : 10,
+      "ConcatND" : 50,
+      "InnerProduct" : 1,
+      "ReduceMax" : 8,
+      "Branch" : 24,
+      "WhereBroadcastable" : 13,
+      "Copy" : 64,
+      "Gather" : 12,
+      "NotEqual" : 13,
+      "Reverse" : 6,
+      "SliceStatic" : 48,
+      "Squeeze" : 8,
+      "AddBroadcastable" : 20,
+      "GreaterEqual" : 12,
+      "Floor" : 1,
+      "MultiplyBroadcastable" : 16,
+      "EmbeddingND" : 1,
+      "ExpandDims" : 9,
+      "Scatter" : 12,
+      "ActivationTanh" : 16,
+      "SplitND" : 8,
+      "ReduceSum" : 12,
+      "ReshapeStatic" : 2,
+      "ActivationSigmoid" : 24,
+      "GetShape" : 42,
+      "GreaterThan" : 1,
+      "Transpose" : 12,
+      "Add" : 20,
+      "SubtractBroadcastable" : 12,
+      "RangeDynamic" : 6,
+      "Ceil" : 1
+    },
+    "method" : "predict"
+  }
+]

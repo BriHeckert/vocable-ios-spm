@@ -1,0 +1,4589 @@
+{
+  "layer_shapes" : {
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_8" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_7" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "shape_6" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/transpose_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:4_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/ones_like\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_new" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayV2_1_element_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/transpose_2" : {
+      "k" : 1,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "range_1d_2_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_2_new" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_cond_24552\/while\/Less_load_constant_285" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_5_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/SelectV2_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "Identity" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/SelectV2_2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_0_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_8_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_5" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_new" : {
+      "k" : 83,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_full_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/zeros_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:4_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/transpose" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros_1\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "tf_make_list_2_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/zeros_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "shape_7" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/NotEqual" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_0" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/add" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/SelectV2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_0_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_element_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_cond_22872\/while\/Less_load_constant_230" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/mul" : {
+      "k" : 1,
+      "w" : 10,
+      "n" : 1,
+      "h" : 82
+    },
+    "tf_make_list_3_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_0_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros_1\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/TensorArrayV2Read\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_3_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/TensorArrayV2Write\/TensorListSetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros_1\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/ReverseV2" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:3_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_6_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_0_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/time" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/NotEqual_load_constant_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/concat" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 2
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "shape_8" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "list_length_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/TensorArrayV2Read\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/time_distributed\/dense\/Softmax" : {
+      "k" : 2,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayUnstack\/TensorListFromTensor" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/transpose_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/TensorArrayV2Read_1\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:4_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_new" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/embedding_lookup" : {
+      "k" : 1,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "tf_make_list_1_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_5" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_3_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:3_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:4_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_alloc_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/input\/_27" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 400
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/mul" : {
+      "k" : 1,
+      "w" : 10,
+      "n" : 1,
+      "h" : 82
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:4_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_5_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_2_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_7" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:3_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_7" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/Cast_floor" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "range_1d_5_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/TensorArrayV2Read_1\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_3_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/TensorArrayV2Read_1\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_5_new" : {
+      "k" : 83,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/transpose_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:3_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/transpose_2" : {
+      "k" : 1,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/TensorArrayV2Read\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "shape_9" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_new" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_7_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayUnstack_1\/TensorListFromTensor" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "range_1d_7" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/Cast_ceil" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/input\/_3" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 10
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayV2_1_arr_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_2" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/ReverseV2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/ExpandDims" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayV2_1_arr_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/input\/_4" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 200
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:2_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/strided_slice_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/strided_slice_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_8_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_arr_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/input\/_5" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:4_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/TensorArrayV2Read_1\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:2_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_7_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_cond_24552\/while\/Less" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/TensorArrayV2Read\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_new" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/transpose_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/add_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayV2_1_element_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/TensorArrayV2Read_1\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/ReverseV2_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_4_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_cond_26244\/while\/Less" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/TensorArrayV2Write\/TensorListSetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/TensorArrayV2Read\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:4_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "range_1d_1_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_10" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_4_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_3_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayUnstack_1\/TensorListFromTensor" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/input\/_29" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/ReverseV2" : {
+      "k" : 1,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_cond_22872\/while\/Less" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/SelectV2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "list_length_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/TensorArrayUnstack_1\/TensorListFromTensor" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_1_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/Cast_cond" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:3_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_new" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/ones_like\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_7_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "range_1d_9" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:2_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_5" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:3_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayV2Stack\/TensorListStack" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/ReverseV2_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/TensorArrayV2Write\/TensorListSetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_6_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_6" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "range_1d_4" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/TensorArrayV2Read\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_6_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/SelectV2_expanded" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_7" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/time" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "slice_by_index_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/time_distributed\/dense\/BiasAdd" : {
+      "k" : 2,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/SelectV2_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/ExpandDims" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/transpose" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_@ssa_version_8" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_full_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/ones_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/input\/_15" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 10
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_8" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "slice_by_index_7" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/transpose" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_arr_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_2_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_11" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/SelectV2_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/transpose_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/ones_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/strided_slice_1" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_4_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_element_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_1_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "range_1d_4_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/SelectV2_2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/TensorArrayV2_1" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_3_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_1_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/TensorArrayV2Read\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/TensorArrayV2Read_1\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:4_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/input\/_16" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 200
+    },
+    "tf_make_list_7_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:3_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_7_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_2_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayV2_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/SelectV2_2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros_1\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayUnstack\/TensorListFromTensor" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/time" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_2_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/SelectV2_expanded" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_3_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/embedding\/Cast" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_6_new" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/transpose_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_new" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/embedding\/embedding_lookup_expand_dims" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "tf_make_list_1_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/TensorArrayV2Stack\/TensorListStack" : {
+      "k" : 1,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "list_length_0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/input\/_17" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/TensorArrayUnstack\/TensorListFromTensor" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/concat" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_1_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "input_1" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_new" : {
+      "k" : 83,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/zeros_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/add_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_@ssa_version_2" : {
+      "k" : 83,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "range_1d_1" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:2_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_0_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/add_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_3_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_3_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros_1\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/MatMul" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/Tanh" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_6" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:3_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "range_1d_9_max" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/TensorArrayV2Stack\/TensorListStack" : {
+      "k" : 1,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_@ssa_version_8" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_4_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "shape_10" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/add_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/time_distributed\/Reshape" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_3_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/input\/_40" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 200
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Tanh_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_5_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/TensorArrayV2_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros_1\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/MatMul" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_3_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/transpose" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/time" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_full_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "tf_make_list_7_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_value_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/SelectV2_1" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_6_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_3_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/TensorArrayUnstack_1\/TensorListFromTensor" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/SelectV2_2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/zeros\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_7_@ssa_version_4" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/input\/_28" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 200
+    },
+    "tf_make_list_4_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/ExpandDims" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/MatMul" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_5_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_alloc_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/SelectV2_expanded" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_4_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/add" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/add_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_4_new" : {
+      "k" : 83,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_cond_27924\/while\/Less" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/input\/_39" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 400
+    },
+    "functional_1\/embedding\/Cast_cond_load_constant_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/zeros_1\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/TensorArrayV2Read\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "range_1d_8" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/TensorArrayV2Read_1\/TensorListGetItem_gathered" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/mul" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while\/while_body_26245\/while\/SelectV2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_7" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_full_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_3_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_full_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/TensorArrayV2Stack\/TensorListStack" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while:1_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_3" : {
+      "k" : 1,
+      "w" : 82,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_@ssa_version_3" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_0_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_5_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/strided_slice" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 0,
+      "h" : 1
+    },
+    "tf_make_list_3_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "range_1d_0_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_re_initialize_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "range_1d_3_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "shape_11" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/TensorArrayV2_1" : {
+      "k" : 82,
+      "w" : 200,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/zeros_like" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/SelectV2" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_1_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_2_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_0_ls_elem_shape" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_alloc" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22873\/while\/Sigmoid_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/zeros\/packed" : {
+      "k" : 1,
+      "w" : 2,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/ExpandDims" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 82
+    },
+    "tf_make_list_6_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/mul_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_6_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "list_length_3" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros_1\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/TensorArrayUnstack\/TensorListFromTensor" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/Sigmoid_1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:0_@ssa_version_5" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/BiasAdd" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/SelectV2_expanded" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_2_raw_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:1_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/TensorArrayV2Write\/TensorListSetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:0_@ssa_version_6" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/Shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/zeros\/packed\/1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "Func\/functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/input\/_41" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/mul_2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_6_elem_shape_not_equal" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/ReverseV2" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_extra_length1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/strided_slice_1" : {
+      "k" : 1,
+      "w" : 400,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/Sigmoid" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_2_extra_length0" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while:0_@ssa_version_2" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/MatMul_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_4_value_elem_shape" : {
+      "k" : 1,
+      "w" : 3,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/add" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "range_1d_9_max_squeeze" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_is_growing" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/while\/while_body_24553\/while\/TensorArrayV2Read_1\/TensorListGetItem" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 2,
+      "h" : 1
+    },
+    "tf_make_list_3" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/split:0" : {
+      "k" : 1,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/split:1" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/split:2" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/backward_lstm_1\/PartitionedCall\/while\/while_body_27925\/while\/split:3" : {
+      "k" : 0,
+      "w" : 800,
+      "n" : 1,
+      "_rank" : 4,
+      "h" : 1
+    },
+    "tf_make_list_1_@ssa_version_4" : {
+      "k" : 82,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_5_alloc_shape" : {
+      "k" : 1,
+      "w" : 4,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "functional_1\/bidirectional_1\/forward_lstm_1\/PartitionedCall\/while:1_@ssa_version_1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_length" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_6_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_7_reduce_any" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    },
+    "tf_make_list_5" : {
+      "k" : 82,
+      "w" : 10,
+      "n" : 1,
+      "_rank" : 3,
+      "h" : 1
+    },
+    "tf_make_list_6_re_initialize" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "tf_make_list_1_reduce_any__squeeze__" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "_rank" : 1,
+      "h" : 1
+    }
+  },
+  "global_shapes" : {
+
+  }
+}

@@ -212,7 +212,7 @@
     },
     "Identity" : {
       "k" : 1,
-      "w" : 4,
+      "w" : 5,
       "n" : 1,
       "_rank" : 3,
       "h" : 2
@@ -302,7 +302,7 @@
     },
     "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/transpose" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "h" : 1
     },
@@ -471,7 +471,7 @@
     },
     "functional_1\/bidirectional\/backward_lstm\/mul" : {
       "k" : 1,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "h" : 82
     },
@@ -498,7 +498,7 @@
     },
     "tf_make_list_4_@ssa_version_3" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -834,7 +834,7 @@
     },
     "functional_1\/embedding\/embedding_lookup" : {
       "k" : 1,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 82
@@ -936,7 +936,7 @@
     },
     "functional_1\/bidirectional\/forward_lstm\/mul" : {
       "k" : 1,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "h" : 82
     },
@@ -949,7 +949,7 @@
     },
     "tf_make_list_5_@ssa_version_4" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -1028,7 +1028,7 @@
     },
     "tf_make_list_5_new" : {
       "k" : 83,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -1194,7 +1194,7 @@
       "w" : 800,
       "n" : 1,
       "_rank" : 2,
-      "h" : 300
+      "h" : 50
     },
     "tf_make_list_6_extra_length1" : {
       "k" : 1,
@@ -1424,7 +1424,7 @@
     },
     "functional_1\/dense\/BiasAdd" : {
       "k" : 1,
-      "w" : 4,
+      "w" : 5,
       "n" : 1,
       "_rank" : 3,
       "h" : 2
@@ -1521,7 +1521,7 @@
     },
     "tf_make_list_4_@ssa_version_2" : {
       "k" : 83,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -1969,7 +1969,7 @@
     },
     "tf_make_list_5_@ssa_version_3" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -2229,7 +2229,7 @@
     },
     "tf_make_list_4" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -2362,7 +2362,7 @@
       "w" : 800,
       "n" : 1,
       "_rank" : 2,
-      "h" : 300
+      "h" : 50
     },
     "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22561\/while\/SelectV2_expanded" : {
       "k" : 1,
@@ -3089,7 +3089,7 @@
     },
     "tf_make_list_5_@ssa_version_2" : {
       "k" : 83,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -3568,7 +3568,7 @@
     },
     "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/transpose" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "h" : 1
     },
@@ -3805,7 +3805,7 @@
     },
     "tf_make_list_4_new" : {
       "k" : 83,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -4128,7 +4128,7 @@
     },
     "tf_make_list_4_@ssa_version_4" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1
@@ -4552,7 +4552,7 @@
     },
     "tf_make_list_5" : {
       "k" : 82,
-      "w" : 300,
+      "w" : 50,
       "n" : 1,
       "_rank" : 3,
       "h" : 1

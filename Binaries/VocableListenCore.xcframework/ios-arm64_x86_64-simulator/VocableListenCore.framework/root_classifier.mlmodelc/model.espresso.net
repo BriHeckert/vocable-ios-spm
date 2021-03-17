@@ -118,11 +118,11 @@
       "name" : "functional_1\/embedding\/embedding_lookup_expand_dims"
     },
     {
-      "nB" : 7466,
+      "nB" : 14,
       "top" : "functional_1\/embedding\/embedding_lookup",
       "has_biases" : 0,
       "nd_mode" : true,
-      "nC" : 300,
+      "nC" : 50,
       "blob_weights" : 5,
       "weights" : {
 
@@ -2600,7 +2600,7 @@
     },
     {
       "top" : "tf_make_list_4",
-      "w" : 300,
+      "w" : 50,
       "h" : 1,
       "weights" : {
 
@@ -3249,7 +3249,7 @@
     {
       "top" : "Func\/functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/input\/_3",
       "w" : 800,
-      "h" : 300,
+      "h" : 50,
       "name" : "Func\/functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/input\/_3",
       "nd_rank" : 2,
       "type" : "load_constant",
@@ -3275,7 +3275,7 @@
     },
     {
       "top" : "tf_make_list_5",
-      "w" : 300,
+      "w" : 50,
       "h" : 1,
       "name" : "tf_make_list_5",
       "nd_rank" : 3,
@@ -3747,7 +3747,7 @@
     {
       "top" : "Func\/functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/input\/_15",
       "w" : 800,
-      "h" : 300,
+      "h" : 50,
       "name" : "Func\/functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/input\/_15",
       "nd_rank" : 2,
       "type" : "load_constant",
@@ -11848,7 +11848,7 @@
       "weights" : {
 
       },
-      "nC" : 4,
+      "nC" : 5,
       "blob_weights" : 97,
       "type" : "inner_product",
       "has_relu" : 0,
@@ -12109,7 +12109,7 @@
       },
       "Identity" : {
         "k" : 1,
-        "w" : 4,
+        "w" : 5,
         "n" : 1,
         "_rank" : 3,
         "h" : 2
@@ -12199,7 +12199,7 @@
       },
       "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/transpose" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "h" : 1
       },
@@ -12368,7 +12368,7 @@
       },
       "functional_1\/bidirectional\/backward_lstm\/mul" : {
         "k" : 1,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "h" : 82
       },
@@ -12395,7 +12395,7 @@
       },
       "tf_make_list_4_@ssa_version_3" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -12731,7 +12731,7 @@
       },
       "functional_1\/embedding\/embedding_lookup" : {
         "k" : 1,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 82
@@ -12833,7 +12833,7 @@
       },
       "functional_1\/bidirectional\/forward_lstm\/mul" : {
         "k" : 1,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "h" : 82
       },
@@ -12846,7 +12846,7 @@
       },
       "tf_make_list_5_@ssa_version_4" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -12925,7 +12925,7 @@
       },
       "tf_make_list_5_new" : {
         "k" : 83,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -13091,7 +13091,7 @@
         "w" : 800,
         "n" : 1,
         "_rank" : 2,
-        "h" : 300
+        "h" : 50
       },
       "tf_make_list_6_extra_length1" : {
         "k" : 1,
@@ -13321,7 +13321,7 @@
       },
       "functional_1\/dense\/BiasAdd" : {
         "k" : 1,
-        "w" : 4,
+        "w" : 5,
         "n" : 1,
         "_rank" : 3,
         "h" : 2
@@ -13418,7 +13418,7 @@
       },
       "tf_make_list_4_@ssa_version_2" : {
         "k" : 83,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -13866,7 +13866,7 @@
       },
       "tf_make_list_5_@ssa_version_3" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -14126,7 +14126,7 @@
       },
       "tf_make_list_4" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -14259,7 +14259,7 @@
         "w" : 800,
         "n" : 1,
         "_rank" : 2,
-        "h" : 300
+        "h" : 50
       },
       "functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while:1_functional_1\/bidirectional\/forward_lstm\/PartitionedCall\/while\/while_body_22561\/while\/SelectV2_expanded" : {
         "k" : 1,
@@ -14986,7 +14986,7 @@
       },
       "tf_make_list_5_@ssa_version_2" : {
         "k" : 83,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -15465,7 +15465,7 @@
       },
       "functional_1\/bidirectional\/backward_lstm\/PartitionedCall\/transpose" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "h" : 1
       },
@@ -15702,7 +15702,7 @@
       },
       "tf_make_list_4_new" : {
         "k" : 83,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -16025,7 +16025,7 @@
       },
       "tf_make_list_4_@ssa_version_4" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1
@@ -16449,7 +16449,7 @@
       },
       "tf_make_list_5" : {
         "k" : 82,
-        "w" : 300,
+        "w" : 50,
         "n" : 1,
         "_rank" : 3,
         "h" : 1

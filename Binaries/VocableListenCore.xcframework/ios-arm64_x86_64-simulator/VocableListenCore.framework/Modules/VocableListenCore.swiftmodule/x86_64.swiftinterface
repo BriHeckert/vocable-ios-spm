@@ -4,13 +4,17 @@
 import Combine
 import CoreML
 import Foundation
+import NaturalLanguage
 import Swift
+import SwiftUI
+import UIKit
 @_exported import VocableListenCore
-public enum VLClassification : Swift.Int, Swift.CaseIterable {
+public enum VLClassification : Swift.Int, Swift.CaseIterable, Swift.Codable {
   case freeResponse
   case yesOrNo
   case numerical
   case interval
+  case conjunction
   public typealias RawValue = Swift.Int
   public init?(rawValue: Swift.Int)
   public var rawValue: Swift.Int {
@@ -21,21 +25,81 @@ public enum VLClassification : Swift.Int, Swift.CaseIterable {
     get
   }
 }
-public struct VLClassificationResult : Swift.Equatable {
-  public let text: Swift.String
-  public let result: VocableListenCore.VLClassification
-  public static func == (a: VocableListenCore.VLClassificationResult, b: VocableListenCore.VLClassificationResult) -> Swift.Bool
-}
-public class VLClassifier {
-  @Foundation.Published @_projectedValueProperty($classification) public var classification: VocableListenCore.VLClassificationResult? {
+public struct VLClassificationResult : Swift.Codable, Swift.Equatable, Swift.CustomStringConvertible {
+  public let input: Swift.String
+  public let classification: VocableListenCore.VLClassification
+  public let responses: [Swift.String]?
+  public let context: VocableListenCore.VLLoggingContext
+  public var description: Swift.String {
     get
   }
-  public var $classification: Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher {
+  public static func == (lhs: VocableListenCore.VLClassificationResult, rhs: VocableListenCore.VLClassificationResult) -> Swift.Bool
+  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: Swift.Encoder) throws
+}
+public class VLClassifier {
+  public var classificationPublisher: Combine.AnyPublisher<Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher.Output, Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher.Failure> {
+    get
+  }
+  public var classification: VocableListenCore.VLClassificationResult? {
     get
   }
   public init()
   public func classify(_ input: Swift.String)
   @objc deinit
+}
+@_hasMissingDesignatedInitializers final public class VLLogEntry : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible {
+  final public let title: Swift.String
+  final public var duration: Foundation.TimeInterval {
+    get
+  }
+  required public init(from decoder: Swift.Decoder) throws
+  final public func encode(to encoder: Swift.Encoder) throws
+  @objc final public func debugQuickLookObject() -> Any?
+  final public var body: some SwiftUI.View {
+    get
+  }
+  final public var description: Swift.String {
+    get
+  }
+  @objc deinit
+  public typealias Body = @_opaqueReturnTypeOf("$s17VocableListenCore10VLLogEntryC4bodyQrvp", 0) 🦸
+}
+@_hasMissingDesignatedInitializers final public class VLLoggingContext : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible {
+  final public let input: Swift.String
+  final public var entries: [VocableListenCore.VLLogEntry] {
+    get
+  }
+  final public func encode(to encoder: Swift.Encoder) throws
+  required public init(from decoder: Swift.Decoder) throws
+  @objc final public func debugQuickLookObject() -> Any?
+  final public var description: Swift.String {
+    get
+  }
+  final public var body: some SwiftUI.View {
+    get
+  }
+  @objc deinit
+  public typealias Body = @_opaqueReturnTypeOf("$s17VocableListenCore16VLLoggingContextC4bodyQrvp", 0) 🦸
+}
+extension Sequence {
+  @inlinable internal func toArray() -> [Self.Element] {
+        return Array(self)
+    }
+}
+extension Sequence {
+  @inlinable internal func dropNils<T>() -> [T] where Self.Element == Swift.Optional<T> {
+        return self.compactMap({$0})
+    }
+}
+extension RandomAccessCollection {
+  @inlinable internal func indexOfMax() -> Self.Index? where Self.Element : Swift.Comparable {
+        guard let maxValue = self.max() else { return nil }
+        return self.firstIndex(of: maxValue)
+    }
+}
+@inlinable internal func indexOfMax<T>(_ collection: T) -> T.Index? where T : Swift.RandomAccessCollection, T.Element : Swift.Comparable {
+    return collection.indexOfMax()
 }
 extension VocableListenCore.VLClassification : Swift.Equatable {}
 extension VocableListenCore.VLClassification : Swift.Hashable {}
