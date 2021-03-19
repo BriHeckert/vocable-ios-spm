@@ -48,8 +48,14 @@ public class VLClassifier {
   public func classify(_ input: Swift.String)
   @objc deinit
 }
-@_hasMissingDesignatedInitializers final public class VLLogEntry : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible {
+@_hasMissingDesignatedInitializers final public class VLLogEntry : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible, Swift.Hashable {
   final public let title: Swift.String
+  final public var startDate: Foundation.Date {
+    get
+  }
+  final public var endDate: Foundation.Date? {
+    get
+  }
   final public var duration: Foundation.TimeInterval {
     get
   }
@@ -62,12 +68,26 @@ public class VLClassifier {
   final public var description: Swift.String {
     get
   }
+  public static func == (lhs: VocableListenCore.VLLogEntry, rhs: VocableListenCore.VLLogEntry) -> Swift.Bool
+  final public func hash(into hasher: inout Swift.Hasher)
   @objc deinit
+  final public var hashValue: Swift.Int {
+    get
+  }
   public typealias Body = @_opaqueReturnTypeOf("$s17VocableListenCore10VLLogEntryC4bodyQrvp", 0) 🦸
 }
-@_hasMissingDesignatedInitializers final public class VLLoggingContext : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible {
+@_hasMissingDesignatedInitializers final public class VLLoggingContext : Swift.Codable, SwiftUI.View, Swift.CustomStringConvertible, Swift.Hashable {
   final public let input: Swift.String
   final public var entries: [VocableListenCore.VLLogEntry] {
+    get
+  }
+  final public var startDate: Foundation.Date? {
+    get
+  }
+  final public var endDate: Foundation.Date? {
+    get
+  }
+  final public var duration: Foundation.TimeInterval {
     get
   }
   final public func encode(to encoder: Swift.Encoder) throws
@@ -79,7 +99,12 @@ public class VLClassifier {
   final public var body: some SwiftUI.View {
     get
   }
+  public static func == (lhs: VocableListenCore.VLLoggingContext, rhs: VocableListenCore.VLLoggingContext) -> Swift.Bool
+  final public func hash(into hasher: inout Swift.Hasher)
   @objc deinit
+  final public var hashValue: Swift.Int {
+    get
+  }
   public typealias Body = @_opaqueReturnTypeOf("$s17VocableListenCore16VLLoggingContextC4bodyQrvp", 0) 🦸
 }
 extension Sequence {

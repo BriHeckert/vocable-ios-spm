@@ -48,10 +48,10 @@
     ],
     "userDefinedMetadata" : {
       "input_map" : "{\"ENDPAD\": 0, \"Adjective\": 1, \"Adverb\": 2, \"Conjunction\": 3, \"Determiner\": 4, \"Interjection\": 5, \"Noun\": 6, \"Number\": 7, \"Or\": 8, \"OtherWord\": 9, \"Particle\": 10, \"Preposition\": 11, \"Pronoun\": 12, \"Verb\": 13}",
-      "com.github.apple.coremltools.version" : "4.1",
-      "end_pad" : "True",
       "com.github.apple.coremltools.source" : "tensorflow==2.3.1",
+      "end_pad" : "True",
       "output_map" : "{\"free_response\": 0, \"yes_no\": 1, \"numpad_response\": 2, \"scale_response\": 3, \"or_question\": 4}",
+      "com.github.apple.coremltools.version" : "4.1",
       "version" : "v1"
     },
     "generatedClassName" : "root_classifier",
