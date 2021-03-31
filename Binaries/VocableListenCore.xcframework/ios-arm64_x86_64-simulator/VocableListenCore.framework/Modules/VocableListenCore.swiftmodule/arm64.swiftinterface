@@ -38,6 +38,7 @@ public struct VLClassificationResult : Swift.Codable, Swift.Equatable, Swift.Cus
   public func encode(to encoder: Swift.Encoder) throws
 }
 public class VLClassifier {
+  public static func prepare()
   public var classificationPublisher: Combine.AnyPublisher<Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher.Output, Combine.Published<VocableListenCore.VLClassificationResult?>.Publisher.Failure> {
     get
   }
