@@ -47,11 +47,11 @@
       }
     ],
     "userDefinedMetadata" : {
+      "com.github.apple.coremltools.version" : "4.1",
       "input_map" : "{\"ENDPAD\": 0, \"Adjective\": 1, \"Adverb\": 2, \"Conjunction\": 3, \"Determiner\": 4, \"Interjection\": 5, \"Noun\": 6, \"Number\": 7, \"Or\": 8, \"OtherWord\": 9, \"Particle\": 10, \"Preposition\": 11, \"Pronoun\": 12, \"Verb\": 13}",
-      "output_map" : "{\"0\": 0, \"1\": 1}",
       "end_pad" : "True",
       "com.github.apple.coremltools.source" : "tensorflow==2.3.1",
-      "com.github.apple.coremltools.version" : "4.1",
+      "output_map" : "{\"0\": 0, \"1\": 1}",
       "version" : "v1"
     },
     "generatedClassName" : "conjunct_parameters",
