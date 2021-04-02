@@ -118,7 +118,7 @@
       "name" : "functional_1\/embedding\/embedding_lookup_expand_dims"
     },
     {
-      "nB" : 14,
+      "nB" : 114,
       "top" : "functional_1\/embedding\/embedding_lookup",
       "has_biases" : 0,
       "nd_mode" : true,

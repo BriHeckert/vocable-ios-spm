@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n6MVSse7wrckC62C9sDOT49II7g=
+		DvbqwUIKd9n2WcyP6+DEl0VENPk=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		n6MVSse7wrckC62C9sDOT49II7g=
+		DvbqwUIKd9n2WcyP6+DEl0VENPk=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OBKfhm/sCZOpTUp06+bcxiuGjwA=
+		aVoAJXtrPPj9pJ0zGQO1QaToC2s=
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		OBKfhm/sCZOpTUp06+bcxiuGjwA=
+		aVoAJXtrPPj9pJ0zGQO1QaToC2s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>conjunct_parameters.mlmodelc/coremldata.bin</key>
 		<data>
-		zvybAb06vUJy/YNWDsxDAcbU5RY=
+		2D0pJe6jHhwi0SLqeQMvjQFN9Gs=
 		</data>
 		<key>conjunct_parameters.mlmodelc/metadata.json</key>
 		<data>
-		tyQjRgpJhC+06NLFZZWXr+LA7b4=
+		CX2m5nxWHmIc3mx1iUbE6+4j+7c=
 		</data>
 		<key>conjunct_parameters.mlmodelc/model.espresso.net</key>
 		<data>
@@ -106,19 +106,19 @@
 		</data>
 		<key>root_classifier.mlmodelc/analytics/coremldata.bin</key>
 		<data>
-		jb4DUMEPoiZu6rclBtqRJaGVJ0Y=
+		PMseApyxLV6tQ6ICw2FL6qJlVSw=
 		</data>
 		<key>root_classifier.mlmodelc/coremldata.bin</key>
 		<data>
-		VexERencV6ohivD7QFEcO5PTMGQ=
+		fwKXRqtncM3u78BH70FKpjAT3EA=
 		</data>
 		<key>root_classifier.mlmodelc/metadata.json</key>
 		<data>
-		YLKknuNiOOXuD21Lc2GrmK+ur2Q=
+		V5pqGXaEN/VBHrWv0wAOWhJNI8M=
 		</data>
 		<key>root_classifier.mlmodelc/model.espresso.net</key>
 		<data>
-		VTJBV9S709P7zaRjnn+W3SZAyUI=
+		FlTaN7mD6BgfnPqZ7UtpOnrPWkY=
 		</data>
 		<key>root_classifier.mlmodelc/model.espresso.shape</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>root_classifier.mlmodelc/model.espresso.weights</key>
 		<data>
-		yOjjoW2ssP0+s12LoLMKYxU0frE=
+		gAp2uwU/V+U4YgYWiXJ1fOGGW58=
 		</data>
 		<key>root_classifier.mlmodelc/model.rank.info.json</key>
 		<data>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxAkzH/4D5pp4x15jz4JbxHodf5RM5S8f4s53ySh5jU=
+			gIzONeDBhSfO0Z9O9b75PRXCqsiDS6mQw/fruIzTSHI=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/arm64.swiftdoc</key>
@@ -196,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxAkzH/4D5pp4x15jz4JbxHodf5RM5S8f4s53ySh5jU=
+			gIzONeDBhSfO0Z9O9b75PRXCqsiDS6mQw/fruIzTSHI=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYwIQalxHG7IIPt4W4dNMSGuPuIdqpN/6qwrfCgXF8c=
+			+4J6/9rc5lxL7TMTfY7YtWpfOge7qGDQw4iTaWAaD9Q=
 			</data>
 		</dict>
 		<key>Modules/VocableListenCore.swiftmodule/x86_64.swiftdoc</key>
@@ -238,7 +238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYwIQalxHG7IIPt4W4dNMSGuPuIdqpN/6qwrfCgXF8c=
+			+4J6/9rc5lxL7TMTfY7YtWpfOge7qGDQw4iTaWAaD9Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -259,14 +259,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IiwhWp2nzzi+JFaXrThoEJ1B8ng3bkQ+csaSuF8Qqpc=
+			Pi8zZsASgCgcrPZ0onaZ19FUqJitqkOEJKFCy+OqcxQ=
 			</data>
 		</dict>
 		<key>conjunct_parameters.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T5d5kYf4ggaHA+YY4ExAO1vwpi9kq3CBvGEjm8TQ/Z8=
+			QTdzgJQ8qYiw9RZ5W69dvHXM4SoSDXKCB1DOUKFX2WI=
 			</data>
 		</dict>
 		<key>conjunct_parameters.mlmodelc/model.espresso.net</key>
@@ -315,28 +315,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tAI593Gir7kZgpJ7xFQcM8KeBGv3u/Hhpoy+Tuv//XM=
+			08vUnl0ms6CBfmsytDlZp/tIVy6GOFC1CzQH8vSDzCs=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/coremldata.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pMoNnx+7zY80NRR/HR49wyNYpVkjd4WKgfmBPYfvzx8=
+			HlNkkWsYevhGP6S0Qmh9uTNSMDXo5cSNeeXubazcvAo=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/metadata.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KuCQGxJSEiBWYUYCKH1r+9QkvWWkybw+WmV4D7TrbCo=
+			C01bEvj1KcDQGKNl9MvsYBuBsctvyS7RVenx8z2gIiM=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/model.espresso.net</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S86BpWFTCWKkgB9fZdTYWnSQFEcABpmyjecNF8vKzX8=
+			dK1QgK2LieXKc3fbL2bc8r5rQlFAqbPi2DNnlHDpm8c=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/model.espresso.shape</key>
@@ -350,7 +350,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q8yBHnzI1CiJC02k+9Zshy2osyBZyS9WN8cqYbg8Bkc=
+			YSl8n73e4BhUf3P9gYtKp9/vFC2TY7gH+aTDKU28Zc8=
 			</data>
 		</dict>
 		<key>root_classifier.mlmodelc/model.rank.info.json</key>
