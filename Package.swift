@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "VocableCore",
     platforms: [
-        .iOS(.v14)
+        .iOS(.v13)
     ],
     products: [
         .library(

@@ -48,11 +48,11 @@
     ],
     "userDefinedMetadata" : {
       "input_map" : "{\"ENDPAD\": 0, \"Adjective\": 1, \"Adverb\": 2, \"Conjunction\": 3, \"Determiner\": 4, \"Interjection\": 5, \"Noun\": 6, \"Number\": 7, \"Or\": 8, \"OtherWord\": 9, \"Particle\": 10, \"Preposition\": 11, \"Pronoun\": 12, \"Verb\": 13, \"acreage\": 14, \"amount\": 15, \"average\": 16, \"big\": 17, \"celsius\": 18, \"century\": 19, \"chance\": 20, \"chances\": 21, \"chapter\": 22, \"charged\": 23, \"close\": 24, \"cold\": 25, \"cost\": 26, \"debt\": 27, \"debts\": 28, \"deep\": 29, \"diameter\": 30, \"dollar\": 31, \"estimated\": 32, \"fahrenheit\": 33, \"far\": 34, \"fare\": 35, \"fast\": 36, \"fastest\": 37, \"fee\": 38, \"fine\": 39, \"fined\": 40, \"fraction\": 41, \"heavy\": 42, \"height\": 43, \"high\": 44, \"highest\": 45, \"hot\": 46, \"hours\": 47, \"how\": 48, \"in\": 49, \"income\": 50, \"kelvin\": 51, \"large\": 52, \"length\": 53, \"lengths\": 54, \"light\": 55, \"likelihood\": 56, \"long\": 57, \"longest\": 58, \"lowest\": 59, \"many\": 60, \"mileage\": 61, \"money\": 62, \"month\": 63, \"much\": 64, \"narrow\": 65, \"near\": 66, \"number\": 67, \"odds\": 68, \"often\": 69, \"old\": 70, \"paid\": 71, \"pay\": 72, \"per\": 73, \"percent\": 74, \"percentage\": 75, \"population\": 76, \"pound\": 77, \"pounds\": 78, \"price\": 79, \"probability\": 80, \"proportion\": 81, \"radius\": 82, \"rate\": 83, \"rating\": 84, \"ratio\": 85, \"salary\": 86, \"score\": 87, \"shallow\": 88, \"short\": 89, \"shortest\": 90, \"size\": 91, \"slow\": 92, \"slowest\": 93, \"small\": 94, \"speed\": 95, \"tall\": 96, \"tax\": 97, \"taxed\": 98, \"temperature\": 99, \"toll\": 100, \"total\": 101, \"volume\": 102, \"wage\": 103, \"weigh\": 104, \"weight\": 105, \"what\": 106, \"which\": 107, \"wide\": 108, \"width\": 109, \"wingspan\": 110, \"worth\": 111, \"year\": 112, \"young\": 113}",
-      "version" : "v1",
-      "end_pad" : "True",
       "com.github.apple.coremltools.source" : "tensorflow==2.3.1",
+      "end_pad" : "True",
+      "output_map" : "{\"free_response\": 0, \"yes_no\": 1, \"numpad_response\": 2, \"scale_response\": 3, \"or_question\": 4}",
       "com.github.apple.coremltools.version" : "4.1",
-      "output_map" : "{\"free_response\": 0, \"yes_no\": 1, \"numpad_response\": 2, \"scale_response\": 3, \"or_question\": 4}"
+      "version" : "v1"
     },
     "generatedClassName" : "root_classifier",
     "neuralNetworkLayerTypeHistogram" : {
